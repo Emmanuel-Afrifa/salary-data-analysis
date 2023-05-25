@@ -18,7 +18,7 @@ Screenshots of some of the visualizations in the project are below;
 ![Screenshot of some graphs](./images/output2.png)
 
 ### Links
-- [Github repository](#)
+- [Github repository](https://github.com/Emmanuel-Afrifa/salary-data-analysis)
 
 
 ## Process
